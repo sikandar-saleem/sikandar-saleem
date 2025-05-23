@@ -1,16 +1,20 @@
 ## 👋 Hi, I'm a
-Full-stack developer experience in building products from scratch as well as maintaining legacy code-base. I've been exposed to working with both unicorns as well startups. I am eager to accept challenges and learn new technologies. I bring my skills and experience to solve the challenges efficiently.
+As a Senior Full-Stack Web & AI Developer, I bring extensive experience in building high-performance web applications serving over 200 million users, alongside designing and launching MVPs for startups from the ground up. I am deeply engaged throughout the product lifecycle from discovery and requirements gathering to architecting scalable solutions and delivering production-ready deployments.
+
+My expertise spans both front-end and back-end development, with a strong focus on creating optimized, efficient, and scalable systems. I have successfully integrated AI capabilities into web platforms, utilizing both pre-trained and custom-trained models, including large language models (LLMs) to enhance functionality, automate workflows, and address complex business challenges.
+
+Driven by a passion for solving real-world problems with clean, scalable code, I continuously refine my skills to stay at the forefront of AI, machine learning, and modern web development technologies.
 
 ### 🔭 I’m currently working on
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=google-chrome&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=google-chrome&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
