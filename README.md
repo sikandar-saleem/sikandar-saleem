@@ -1,40 +1,118 @@
-## 👋 Hi, I'm a
-As a Senior Full-Stack Web & AI Developer, I bring extensive experience in building high-performance web applications serving over 200 million users, alongside designing and launching MVPs for startups from the ground up. I am deeply engaged throughout the product lifecycle from discovery and requirements gathering to architecting scalable solutions and delivering production-ready deployments.
+## 👋 Senior Full-Stack & AI Engineer | Scalable Systems | LLM Integrations
 
-My expertise spans both front-end and back-end development, with a strong focus on creating optimized, efficient, and scalable systems. I have successfully integrated AI capabilities into web platforms, utilizing both pre-trained and custom-trained models, including large language models (LLMs) to enhance functionality, automate workflows, and address complex business challenges.
+I’m a Senior Full-Stack Engineer with 10+ years of experience building scalable, high-performance applications used by millions of users. I specialize in end-to-end product development—from idea validation and architecture design to production deployment and scaling.
 
-Driven by a passion for solving real-world problems with clean, scalable code, I continuously refine my skills to stay at the forefront of AI, machine learning, and modern web development technologies.
+I help startups and enterprises build fast, scalable, AI-powered products with clean architecture and production-grade code.
 
-### 🔭 I’m currently working on
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+---
 
-### 🤖 Integrations
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white) ![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white) ![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=new-relic&logoColor=white)
+## 💡 What I Bring
 
-### 🖥️ Project Management Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=flat&logo=skype&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- Full-stack architecture & system design  
+- AI/LLM integrations & automation workflows  
+- High-performance backend systems  
+- Scalable cloud-native deployments  
+- Clean, maintainable, production-ready code  
 
+---
 
-### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-saleem/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sikandarsaleem2000@gmail.com) [![Phone](https://img.shields.io/badge/Phone-%2B923447000390-008080?style=flat&logo=phone&logoColor=white)](tel:+923447000390)
+## 🧠 Core Expertise
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![MaterialUI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel)
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat)
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat)
+
+---
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat)
+![LLM](https://img.shields.io/badge/LLM_Integrations-8A2BE2?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=flat)
+
+---
+
+### 🗄️ Databases & Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch)
+
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq)
+
+---
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+
+---
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest)
+![RTL](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat&logo=testinglibrary)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright)
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=flat)
+
+---
+
+## 🏗️ Work Highlights
+
+- Built full-stack platforms serving millions of users  
+- Developed AI-powered features using LLMs  
+- Designed scalable microservices & event-driven systems  
+- Delivered MVPs from scratch (0 → production)  
+- Implemented CI/CD & cloud-native infrastructure  
+
+---
+
+## 🤝 Let’s Work Together
+
+If you need someone who can:
+- Architect scalable systems  
+- Build AI-powered applications  
+- Own the full product lifecycle  
+- Deliver fast, production-ready solutions  
+
+Let’s connect 🚀
